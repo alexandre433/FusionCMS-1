@@ -1,0 +1,15 @@
+{
+	"name": "jiinx/fusioncms",
+	"description": "A continuation of FusionCMS/FusionGen Frameworks",
+	"type": "framework",
+	"license": "MIT",
+	"support": {
+		"site": "https://www.jiinx.dev/fcms",
+		"demo": "https://fcms.jiinx.dev",
+		"wiki": "https://github.com/Jiinx/FusionCMS/wiki",
+		"source": "https://github.com/Jiinx/FusionCMS"
+	},
+	"require": {
+		"php": ">=7.1"
+	}
+}
